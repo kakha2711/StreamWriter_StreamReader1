@@ -1,0 +1,15 @@
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\bin\Debug\net6.0\G12_20221006.exe
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\bin\Debug\net6.0\G12_20221006.deps.json
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\bin\Debug\net6.0\G12_20221006.runtimeconfig.json
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\bin\Debug\net6.0\G12_20221006.dll
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\bin\Debug\net6.0\G12_20221006.pdb
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\obj\Debug\net6.0\G12_20221006.csproj.AssemblyReference.cache
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\obj\Debug\net6.0\G12_20221006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\obj\Debug\net6.0\G12_20221006.AssemblyInfoInputs.cache
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\obj\Debug\net6.0\G12_20221006.AssemblyInfo.cs
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\obj\Debug\net6.0\G12_20221006.csproj.CoreCompileInputs.cache
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\obj\Debug\net6.0\G12_20221006.dll
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\obj\Debug\net6.0\refint\G12_20221006.dll
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\obj\Debug\net6.0\G12_20221006.pdb
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\obj\Debug\net6.0\G12_20221006.genruntimeconfig.cache
+C:\Users\Kakha\Desktop\Davaleba\cvnvhnh\G12_20221006\obj\Debug\net6.0\ref\G12_20221006.dll
